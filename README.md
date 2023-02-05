@@ -39,7 +39,7 @@
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AlanFaraj83/beautysalon/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AlanFaraj83/Fresh-Cofee-Website/blob/main/LICENSE) para mais detalhes.
 
 
 
